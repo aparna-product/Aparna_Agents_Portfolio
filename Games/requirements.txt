@@ -1,1 +1,2 @@
-games/chess agent
+python-chess
+tqdm
